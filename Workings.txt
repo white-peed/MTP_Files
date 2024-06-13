@@ -1,0 +1,12 @@
+Implemented the Deep reinforcement learning protfolio via code
+Comparisions :- Paper model vs my training
+
+Implemented skewness and kurtosis in the model
+Comparisions1 :- without vs with skewness and kurtosis
+
+Implemented skewness and kurtosis in the model
+Comparisions2 :- without vs with skewness and kurtosis for all 3000 iterations
+
+Idea to insert entropy
+
+Also, check for different markets, as it give higher returns for cintinuous auction markets
