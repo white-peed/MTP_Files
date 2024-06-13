@@ -1,0 +1,3 @@
+.\venv\Scripts\activate.ps1
+cd src
+python wavecorr_run.py --network_model cs_CNN
